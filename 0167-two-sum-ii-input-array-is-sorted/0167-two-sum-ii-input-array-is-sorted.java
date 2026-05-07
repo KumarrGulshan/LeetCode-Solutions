@@ -11,7 +11,7 @@ class Solution {
             else if(sum < target){
                 i++;
             }
-            else if(sum > target){
+            else{
                 j--;
             }
         }
