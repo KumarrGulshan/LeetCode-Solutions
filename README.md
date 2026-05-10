@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
