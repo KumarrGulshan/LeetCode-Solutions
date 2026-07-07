@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
