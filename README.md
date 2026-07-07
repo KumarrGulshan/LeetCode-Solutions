@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -217,9 +218,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
