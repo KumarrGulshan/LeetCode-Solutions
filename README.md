@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0289-game-of-life) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0289-game-of-life) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/KumarrGulshan/LeetCode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
